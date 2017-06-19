@@ -1,3 +1,4 @@
+Note, this repo is forked from https://github.com/AlexeyAB/Yolo_mark
 # Yolo_mark
 **Windows** & **Linux** GUI for marking bounded boxes of objects in images for training Yolo v2
 
